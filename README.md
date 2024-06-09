@@ -4,7 +4,7 @@ This is a very good starting point for using Panlee's WT32-SC01-PLUS with Audio 
 It shows how to initialize the screen creates some LVGL-widgets and plays a stream;
 
 
-You need to change SSID & Password !!
+You need to change SSID & Password  in src/main.cpp !!
 
 Simple, but working "out-of-the-box". 
 
